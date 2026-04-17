@@ -16,8 +16,9 @@ build/
 Thumbs.db
 
 # VS Code
-.vscode/
 
 # Jupyter runtime
 .local/
 EOF
+temp_auto_push.bat
+temp_interactive_push.bat
