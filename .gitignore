@@ -1,7 +1,6 @@
 cat >> .gitignore << 'EOF'
 
 # Local environment files
-.env
 CLAUD.md
 .envs/
 __pycache__/
@@ -23,3 +22,5 @@ EOF
 temp_auto_push.bat
 temp_interactive_push.bat
 branch_structure.json
+config.bat
+node_modules
